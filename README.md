@@ -8,3 +8,6 @@ Also designed a Streamlit WebApp for predicting the message as a spam or ham mai
 
 The below attached are the glimpses of the prediction using the Streamlit WebApp:
 
+![Screenshot (215)](https://github.com/user-attachments/assets/f4e3853f-6ea2-47d6-9a0a-48ef3a3cd00f)
+![Screenshot (216)](https://github.com/user-attachments/assets/5a9694e1-f975-4b14-9fbc-168112d3f1eb)
+
